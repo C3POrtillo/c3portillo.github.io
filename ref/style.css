@@ -5,14 +5,10 @@
 .color-primary-4 { color: #171717 }
 
 .white { color: #EEEEEE }
-
 .twitter { color: #00acee }
-
 .twitch { color: #6441a5 }
-
 .spotify { color: #1DB954 }
-
-.steam{ color: #c7d5e0 }
+.steam{ color: #2a475e }
 
 body {
   background-color: #171717;
@@ -59,7 +55,6 @@ body {
   -o-user-drag: none;
 }
 
-
 .social {
   flex-direction: row;
 }
@@ -68,4 +63,21 @@ body {
   font-size: 48px;
   padding-left: 0.25em;
   padding-right: 0.25em;
+}
+
+
+a.twitter:hover, a.twitter:focus, a.twitter:active {
+  color: #2AC2FC;
+}
+
+a.twitch:hover, a.twitch:focus, a.twitch:active {
+  color: #A990D8;
+}
+
+a.spotify:hover, a.spotify:focus, a.spotify:active {
+  color: #66D58C;
+}
+
+a.steam:hover, a.steam:focus, a.steam:active {
+  color: #637D90;
 }
