@@ -32,11 +32,9 @@ body {
   margin-bottom: 1.25em;
 }
 
-
-
 .name {
   display: inline-block;
-  font-family: monospace;
+  font-family: 'Inconsolata';
   font-size: 4em;
   margin-top: .5em;
   margin-bottom: .5em;
