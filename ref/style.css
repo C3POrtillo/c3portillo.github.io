@@ -9,6 +9,7 @@
 .twitch { color: #6441a5 }
 .spotify { color: #1DB954 }
 .steam { color: #2a475e }
+.instagram { color: #c13584}
 
 body {
   background-color: #171717;
@@ -75,4 +76,8 @@ a.spotify:hover, a.spotify:focus, a.spotify:active {
 
 a.steam:hover, a.steam:focus, a.steam:active {
   color: #637D90;
+}
+
+a.instagram:hover, a.instagram:focus, a.instagram:active {
+  color: #d472a9	;
 }
